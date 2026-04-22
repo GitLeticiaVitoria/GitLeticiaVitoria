@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FE428B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f9f9d1" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=55&pause=1000&color=FE428B&width=600&height=100&lines=LET%C3%8DCIA+MAGALH%C3%83ES;SOBRE+MIM+|+ABOUT+ME" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=55&pause=1000&color=f9f9d1&width=600&height=100&lines=LET%C3%8DCIA+MAGALH%C3%83ES;SOBRE+MIM+|+ABOUT+ME" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Estou sempre aberta a feedbacks, colaborações e novas ideias. Se quiser trocar
 
 # Status
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticiavmagalhaes&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiavmagalhaes&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiavmagalhaes&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticiavmagalhaes&theme=apprentice" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiavmagalhaes&theme=apprentice" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiavmagalhaes&theme=apprentice" />
 </p>
