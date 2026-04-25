@@ -43,7 +43,7 @@ Estou sempre aberta a feedbacks, colaborações e novas ideias. Se quiser trocar
   <h1 align="center">Status</h1>
 </p>
 
-<div>
+<div align="center">
    <img src="https://streak-stats.demolab.com/?user=leticiavmagalhaes&theme=apprentice&hide_border=true" />
    <img src="https://github-readme-stats.shion.dev/api?username=leticiavmagalhaes&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
