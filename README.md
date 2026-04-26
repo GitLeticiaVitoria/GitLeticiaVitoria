@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="110px" src="https://i.pinimg.com/736x/5f/58/9a/5f589a93053bccd3bcf591bb07f66704.jpg" />
+  <img width="80" height="80px" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajl2aTJ5NHl3Yms4YjZuaTFkdGpsMTk4ZXdtbXh1dTVwOXM0anlyMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Hnkg7teSAliECgiAIX/giphy.webp" />
 </div>
 
 <br>
@@ -7,6 +7,13 @@
 <p align="center" width="100%" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mansalva&size=34&pause=1000&color=F4F4C6&center=true&width=435&lines=Let%C3%ADcia+Magalh%C3%A3es;Sobre+Mim+%7C+About+Me" alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leticiavmagalhaes&icon=6&color=a09d82" width="140" />
+  <h1></h1>
+</p>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=60&color=F4F4C6&text=Full-Stack%20Developer&fontColor=444444&fontSize=26&fontAlign=50&fontAlignY=45&animation=twinkling" />
 
@@ -43,15 +50,9 @@ Estou sempre aberta a feedbacks, colaborações e novas ideias. Se quiser trocar
   <h1 align="center">Status</h1>
 </p>
 
-<div align="center">
-   <img src="https://streak-stats.demolab.com/?user=leticiavmagalhaes&theme=apprentice&hide_border=true" />
-   <img src="https://github-readme-stats.shion.dev/api?username=leticiavmagalhaes&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
-<p align="center">
-  <h3 align="center">Visitas</h3>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leticiavmagalhaes&icon=6&color=a09d82" width="140" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=leticiavmagalhaes&theme=apprentice&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=leticiavmagalhaes&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" /></td>
+  </tr>
+</table>
